@@ -1,0 +1,55 @@
+{
+    "root": [
+        {
+            "type": "node",
+            "label": "button",
+            "attribute": [
+                {
+                    "key": "src",
+                    "value": [
+                        {
+                            "type": "Literal",
+                            "_bline": 0,
+                            "_eline": 0,
+                            "_start": 13,
+                            "_end": 24,
+                            "raw": "\"header.wxml\"",
+                            "value": "header.wxml"
+                        }
+                    ],
+                    "_bline": 0,
+                    "_start": 8,
+                    "_eline": 0,
+                    "_end": 25
+                }
+            ],
+            "children": [],
+            "childrenCreated": false,
+            "_bline": 0,
+            "_start": 0,
+            "_eline": 0,
+            "_end": 27
+        },
+        {
+            "type": "node",
+            "label": "view",
+            "attribute": [],
+            "children": [
+                {
+                    "type": "Literal",
+                    "raw": "\"body\"",
+                    "value": "body",
+                    "_bline": 1,
+                    "_start": 7,
+                    "_eline": 1,
+                    "_end": 11
+                }
+            ],
+            "childrenCreated": false,
+            "_bline": 1,
+            "_start": 0,
+            "_eline": 1,
+            "_end": 19
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "root": [
+        {
+            "type": "node",
+            "label": "view",
+            "attribute": [
+                {
+                    "key": "if",
+                    "value": [
+                        {
+                            "type": "Identifier",
+                            "name": "array",
+                            "_bline": 0,
+                            "_eline": 0,
+                            "_start": 15,
+                            "_end": 20
+                        }
+                    ],
+                    "_bline": 0,
+                    "_start": 6,
+                    "lib": "wx",
+                    "_eline": 0,
+                    "_end": 23
+                }
+            ],
+            "children": [
+                {
+                    "type": "Identifier",
+                    "name": "index",
+                    "_bline": 1,
+                    "_eline": 1,
+                    "_start": 6,
+                    "_end": 11
+                },
+                {
+                    "type": "Literal",
+                    "raw": "\":\"",
+                    "value": ":",
+                    "_bline": 1,
+                    "_start": 13,
+                    "_eline": 1,
+                    "_end": 14
+                },
+                {
+                    "type": "MemberExpression",
+                    "computed": true,
+                    "_eline": 1,
+                    "_end": 29,
+                    "property": {
+                        "type": "Identifier",
+                        "name": "message",
+                        "_bline": 1,
+                        "_eline": 1,
+                        "_start": 22,
+                        "_end": 29
+                    },
+                    "object": {
+                        "type": "Identifier",
+                        "_bline": 1,
+                        "_eline": 1,
+                        "_start": 17,
+                        "_end": 21,
+                        "name": "item"
+                    },
+                    "_bline": 1,
+                    "_start": 17
+                }
+            ],
+            "childrenCreated": false,
+            "_bline": 0,
+            "_start": 0,
+            "_eline": 2,
+            "_end": 7
+        }
+    ]
+}

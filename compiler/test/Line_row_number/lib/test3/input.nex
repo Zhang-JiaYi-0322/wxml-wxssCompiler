@@ -1,0 +1,6 @@
+<view wx:if="{{array}}">
+    {{index}}: {{item.message}}
+</view>
+
+
+

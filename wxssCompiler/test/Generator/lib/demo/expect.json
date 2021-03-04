@@ -1,0 +1,56 @@
+[
+    {
+        "element": [
+            {
+                "type": "class",
+                "insert": false,
+                "name": "userinfo"
+            }
+        ],
+        "style": {
+            "display": "flex",
+            "flex-direction": "column",
+            "align-items": "center"
+        }
+    },
+    {
+        "element": [
+            {
+                "type": "label",
+                "name": "Panel"
+            }
+        ],
+        "style": {
+            "display": "flex"
+        }
+    },
+    {
+        "element": [
+            {
+                "type": "class",
+                "insert": false,
+                "name": "view"
+            },
+            {
+                "type": "label",
+                "insert": true,
+                "name": "View",
+                "position": "before"
+            },
+            {
+                "type": "id",
+                "insert": false,
+                "name": "button"
+            },
+            {
+                "type": "id",
+                "insert": true,
+                "name": "b1",
+                "position": "after"
+            }
+        ],
+        "style": {
+            "content": "\"64px\""
+        }
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "element": [
+            {
+                "type": "class",
+                "insert": false,
+                "name": "fortune-input"
+            }
+        ],
+        "style": {
+            "margin-top": "30px",
+            "width": "236px",
+            "margin": "0 auto",
+            "height": "44px"
+        }
+    }
+]

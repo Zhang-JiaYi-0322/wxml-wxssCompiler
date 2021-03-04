@@ -1,0 +1,3 @@
+<view>
+    <view hidden="{{flag ? a+1 : false}}"> Hidden </view>
+</view>

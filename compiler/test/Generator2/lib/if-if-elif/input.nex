@@ -1,0 +1,5 @@
+<button>
+    <view test="{{t}}" wx:if="2b"> {{a,v,c}}<view wx:if="a1"></view> </view>
+    <view test = "abc"wx:elif="3a"> jynb </view>
+   
+</button>

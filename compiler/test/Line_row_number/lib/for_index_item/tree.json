@@ -1,0 +1,114 @@
+{
+    "root": [
+        {
+            "type": "node",
+            "label": "view",
+            "attribute": [
+                {
+                    "key": "for",
+                    "value": [
+                        {
+                            "type": "Identifier",
+                            "name": "array",
+                            "_bline": 0,
+                            "_eline": 0,
+                            "_start": 16,
+                            "_end": 21
+                        }
+                    ],
+                    "_bline": 0,
+                    "_start": 6,
+                    "lib": "wx",
+                    "_eline": 0,
+                    "_end": 24
+                },
+                {
+                    "key": "for_index",
+                    "value": [
+                        {
+                            "type": "Literal",
+                            "_bline": 0,
+                            "_eline": 0,
+                            "_start": 39,
+                            "_end": 40,
+                            "raw": "\"i\"",
+                            "value": "i"
+                        }
+                    ],
+                    "_bline": 0,
+                    "_start": 25,
+                    "lib": "wx",
+                    "_eline": 0,
+                    "_end": 41
+                },
+                {
+                    "key": "for_item",
+                    "value": [
+                        {
+                            "type": "Literal",
+                            "_bline": 0,
+                            "_eline": 0,
+                            "_start": 57,
+                            "_end": 60,
+                            "raw": "\"obj\"",
+                            "value": "obj"
+                        }
+                    ],
+                    "_bline": 0,
+                    "_start": 42,
+                    "lib": "wx",
+                    "_eline": 0,
+                    "_end": 61
+                }
+            ],
+            "children": [
+                {
+                    "type": "Identifier",
+                    "name": "i",
+                    "_bline": 1,
+                    "_eline": 1,
+                    "_start": 6,
+                    "_end": 7
+                },
+                {
+                    "type": "Literal",
+                    "raw": "\":\"",
+                    "value": ":",
+                    "_bline": 1,
+                    "_start": 9,
+                    "_eline": 1,
+                    "_end": 10
+                },
+                {
+                    "type": "MemberExpression",
+                    "computed": true,
+                    "_eline": 1,
+                    "_end": 24,
+                    "property": {
+                        "type": "Identifier",
+                        "name": "message",
+                        "_bline": 1,
+                        "_eline": 1,
+                        "_start": 17,
+                        "_end": 24
+                    },
+                    "object": {
+                        "type": "Identifier",
+                        "_bline": 1,
+                        "_eline": 1,
+                        "_start": 13,
+                        "_end": 16,
+                        "name": "obj"
+                    },
+                    "_bline": 1,
+                    "_start": 13
+                }
+            ],
+            "childrenCreated": false,
+            "_bline": 0,
+            "_start": 0,
+            "_eline": 2,
+            "_end": 7
+        }
+    ]
+}

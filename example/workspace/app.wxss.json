@@ -1,0 +1,65 @@
+[
+    {
+        "element": [
+            {
+                "type": "class",
+                "insert": false,
+                "name": "container"
+            }
+        ],
+        "style": {
+            "height": "100%",
+            "display": "flex",
+            "flex-direction": "column",
+            "align-items": "center",
+            "box-sizing": "border-box"
+        }
+    },
+    {
+        "element": [
+            {
+                "type": "label",
+                "name": "Page"
+            }
+        ],
+        "style": {
+            "width": "100%",
+            "height": "100%"
+        }
+    },
+    {
+        "element": [
+            {
+                "type": "class",
+                "insert": false,
+                "name": "btn"
+            }
+        ],
+        "style": {
+            "display": "block",
+            "border-radius": "40px",
+            "font-size": "15px",
+            "color": "#F7F7FA",
+            "letter-spacing": "0.1px",
+            "background-image": "linear-gradient(-180deg, rgba(247,116,199,1.00) 0%, rgba(254,151,183,1.00) 100%)"
+        }
+    },
+    {
+        "element": [
+            {
+                "type": "class",
+                "insert": false,
+                "name": "btn-pierced"
+            }
+        ],
+        "style": {
+            "display": "block",
+            "border-radius": "40px",
+            "font-size": "15px",
+            "color": "#F7F7FA",
+            "letter-spacing": "0.1px",
+            "border": "1px solid #FE97B7",
+            "background": "rgba(255,255,255,0)"
+        }
+    }
+]

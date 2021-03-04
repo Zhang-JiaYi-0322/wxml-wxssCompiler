@@ -1,0 +1,3 @@
+<view wx:for="{{array}}" wx:for_index="i" wx:for_item = "obj">
+    {{i}}: {{obj.message}}
+</view>

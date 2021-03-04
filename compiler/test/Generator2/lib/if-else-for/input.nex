@@ -1,0 +1,5 @@
+<button>
+    <view wx:if="2b"> {{a,v,c}} </view>
+    <view wx:elif="3a"> jynb </view>
+    <view wx:for="{{[1,2,3]}}" wx:for_index="f" wx:for_item="child"> <view>123 <view>456</view></view> </view>
+</button>

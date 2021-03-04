@@ -1,0 +1,1 @@
+<button type="{{ colorArr[item.id % 5] }}">1.页面主操作</button>

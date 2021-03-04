@@ -1,0 +1,24 @@
+{
+  "name": "@egret-wxml/example-workspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo build-success",
+    "compile-sourcecode": "wxml-compile ../button_example . && wxss-compile ../button_example .",
+    "start": "npm run compile-sourcecode && webpack-dev-server"
+  },
+  "dependencies": {
+    "@egret-wxml/runtime": "1.0.0"
+  },
+  "devDependencies": {
+    "@egret-wxml/compiler": "1.0.0",
+    "@egret-wxml/wxsscompiler": "1.0.0",
+    "webpack": "^5.9.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0",
+    "html-webpack-plugin": "~4.5.0"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,95 @@
+{
+    "root": [
+        {
+            "type": "node",
+            "label": "view",
+            "attribute": [],
+            "children": [
+                {
+                    "type": "node",
+                    "label": "view",
+                    "attribute": [
+                        {
+                            "key": "hidden",
+                            "value": [
+                                {
+                                    "type": "ConditionalExpression",
+                                    "_bline": 1,
+                                    "_start": 20,
+                                    "_eline": 1,
+                                    "_end": 38,
+                                    "test": {
+                                        "type": "Identifier",
+                                        "name": "flag",
+                                        "_bline": 1,
+                                        "_eline": 1,
+                                        "_start": 20,
+                                        "_end": 24
+                                    },
+                                    "consequent": {
+                                        "type": "BinaryExpression",
+                                        "right": {
+                                            "type": "Literal",
+                                            "_bline": 1,
+                                            "_eline": 1,
+                                            "_start": 29,
+                                            "_end": 30,
+                                            "raw": "1",
+                                            "value": 1
+                                        },
+                                        "left": {
+                                            "type": "Identifier",
+                                            "name": "a",
+                                            "_bline": 1,
+                                            "_eline": 1,
+                                            "_start": 27,
+                                            "_end": 28
+                                        },
+                                        "operator": "+",
+                                        "_bline": 1,
+                                        "_start": 27,
+                                        "_eline": 1,
+                                        "_end": 30
+                                    },
+                                    "alternate": {
+                                        "type": "Identifier",
+                                        "name": "false",
+                                        "_bline": 1,
+                                        "_eline": 1,
+                                        "_start": 33,
+                                        "_end": 38
+                                    }
+                                }
+                            ],
+                            "_bline": 1,
+                            "_start": 10,
+                            "_eline": 1,
+                            "_end": 41
+                        }
+                    ],
+                    "children": [
+                        {
+                            "type": "Literal",
+                            "raw": "\"Hidden\"",
+                            "value": "Hidden",
+                            "_bline": 1,
+                            "_start": 43,
+                            "_eline": 1,
+                            "_end": 49
+                        }
+                    ],
+                    "childrenCreated": false,
+                    "_bline": 1,
+                    "_start": 4,
+                    "_eline": 1,
+                    "_end": 57
+                }
+            ],
+            "childrenCreated": false,
+            "_bline": 0,
+            "_start": 0,
+            "_eline": 2,
+            "_end": 7
+        }
+    ]
+}

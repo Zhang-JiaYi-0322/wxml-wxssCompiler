@@ -1,0 +1,33 @@
+{
+    "root": [
+        {
+            "type": "node",
+            "label": "view",
+            "attribute": [
+                {
+                    "key": "checked",
+                    "value": [
+                        {
+                            "type": "Identifier",
+                            "name": "false",
+                            "_bline": 0,
+                            "_eline": 0,
+                            "_start": 17,
+                            "_end": 22
+                        }
+                    ],
+                    "_bline": 0,
+                    "_start": 6,
+                    "_eline": 0,
+                    "_end": 25
+                }
+            ],
+            "children": [],
+            "childrenCreated": false,
+            "_bline": 0,
+            "_start": 0,
+            "_eline": 0,
+            "_end": 34
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+<button type="primary">1.页面主操作</button>
+<button type="primary" loading="{{true}}">2. 页面主操作 </button>
+<button type="primary" disabled="{{true}}">3. 页面主操作 </button>
+
+<button type="default">4. 页面次要操作 </button>
+<button type="default" disabled="{{true}}">5. 页面次要操作</button>
+
+<button type="warn">6. 警告类操作 </button>
+<button type="warn" disabled="{{true}}">7. 警告类操作 </button>

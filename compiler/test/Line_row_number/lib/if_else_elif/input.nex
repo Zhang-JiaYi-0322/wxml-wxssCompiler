@@ -1,0 +1,7 @@
+<button>
+    <view wx:if="2b"> {{a,v,c}} </view>
+    <view wx:elif="3a"> jynb </view>
+    <view wx:else> tired </view>
+</button> 
+
+<view> brother </view>

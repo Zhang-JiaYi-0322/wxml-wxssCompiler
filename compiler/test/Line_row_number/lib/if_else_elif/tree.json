@@ -1,0 +1,174 @@
+{
+    "root": [
+        {
+            "type": "node",
+            "label": "button",
+            "attribute": [],
+            "children": [
+                {
+                    "type": "node",
+                    "label": "view",
+                    "attribute": [
+                        {
+                            "key": "if",
+                            "value": [
+                                {
+                                    "type": "Literal",
+                                    "_bline": 1,
+                                    "_eline": 1,
+                                    "_start": 17,
+                                    "_end": 19,
+                                    "raw": "\"2b\"",
+                                    "value": "2b"
+                                }
+                            ],
+                            "_bline": 1,
+                            "_start": 10,
+                            "lib": "wx",
+                            "_eline": 1,
+                            "_end": 20
+                        }
+                    ],
+                    "children": [
+                        {
+                            "type": "ObjectExpression",
+                            "properties": [
+                                {
+                                    "type": "Identifier",
+                                    "name": "a",
+                                    "_bline": 1,
+                                    "_eline": 1,
+                                    "_start": 24,
+                                    "_end": 25
+                                },
+                                {
+                                    "type": "Identifier",
+                                    "name": "v",
+                                    "_bline": 1,
+                                    "_eline": 1,
+                                    "_start": 26,
+                                    "_end": 27
+                                },
+                                {
+                                    "type": "Identifier",
+                                    "name": "c",
+                                    "_bline": 1,
+                                    "_eline": 1,
+                                    "_start": 28,
+                                    "_end": 29
+                                }
+                            ],
+                            "_bline": 1,
+                            "_start": 24,
+                            "_eline": 1,
+                            "_end": 29
+                        }
+                    ],
+                    "childrenCreated": false,
+                    "_bline": 1,
+                    "_start": 4,
+                    "_eline": 1,
+                    "_end": 39
+                },
+                {
+                    "type": "node",
+                    "label": "view",
+                    "attribute": [
+                        {
+                            "key": "elif",
+                            "value": [
+                                {
+                                    "type": "Literal",
+                                    "_bline": 2,
+                                    "_eline": 2,
+                                    "_start": 19,
+                                    "_end": 21,
+                                    "raw": "\"3a\"",
+                                    "value": "3a"
+                                }
+                            ],
+                            "_bline": 2,
+                            "_start": 10,
+                            "lib": "wx",
+                            "_eline": 2,
+                            "_end": 22
+                        }
+                    ],
+                    "children": [
+                        {
+                            "type": "Literal",
+                            "raw": "\"jynb\"",
+                            "value": "jynb",
+                            "_bline": 2,
+                            "_start": 24,
+                            "_eline": 2,
+                            "_end": 28
+                        }
+                    ],
+                    "childrenCreated": false,
+                    "_bline": 2,
+                    "_start": 4,
+                    "_eline": 2,
+                    "_end": 36
+                },
+                {
+                    "type": "node",
+                    "label": "view",
+                    "attribute": [
+                        {
+                            "key": "else",
+                            "value": [],
+                            "_bline": 3,
+                            "_start": 10,
+                            "lib": "wx",
+                            "_eline": 3,
+                            "_end": 17
+                        }
+                    ],
+                    "children": [
+                        {
+                            "type": "Literal",
+                            "raw": "\"tired\"",
+                            "value": "tired",
+                            "_bline": 3,
+                            "_start": 19,
+                            "_eline": 3,
+                            "_end": 24
+                        }
+                    ],
+                    "childrenCreated": false,
+                    "_bline": 3,
+                    "_start": 4,
+                    "_eline": 3,
+                    "_end": 32
+                }
+            ],
+            "childrenCreated": false,
+            "_bline": 0,
+            "_start": 0,
+            "_eline": 4,
+            "_end": 9
+        },
+        {
+            "type": "node",
+            "label": "view",
+            "attribute": [],
+            "children": [
+                {
+                    "type": "Literal",
+                    "raw": "\"brother\"",
+                    "value": "brother",
+                    "_bline": 6,
+                    "_start": 7,
+                    "_eline": 6,
+                    "_end": 14
+                }
+            ],
+            "childrenCreated": false,
+            "_bline": 6,
+            "_start": 0,
+            "_eline": 6,
+            "_end": 22
+        }
+    ]
+}

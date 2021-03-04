@@ -1,0 +1,7 @@
+.fortune-input{
+  margin-top: 60rpx;
+  /*border: 1rpx solid #aaa;*/
+  width:472rpx;
+  margin:0 auto;
+  height:88rpx;
+}

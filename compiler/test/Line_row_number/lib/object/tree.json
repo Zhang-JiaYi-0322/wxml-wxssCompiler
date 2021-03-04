@@ -1,0 +1,175 @@
+{
+    "root": [
+        {
+            "type": "node",
+            "label": "button",
+            "attribute": [
+                {
+                    "key": "if",
+                    "value": [
+                        {
+                            "type": "Literal",
+                            "_bline": 0,
+                            "_eline": 0,
+                            "_start": 15,
+                            "_end": 20,
+                            "raw": "\"item-\"",
+                            "value": "item-"
+                        },
+                        {
+                            "type": "Identifier",
+                            "name": "bin",
+                            "_bline": 0,
+                            "_eline": 0,
+                            "_start": 22,
+                            "_end": 25
+                        }
+                    ],
+                    "_bline": 0,
+                    "_start": 8,
+                    "lib": "wx",
+                    "_eline": 0,
+                    "_end": 28
+                },
+                {
+                    "key": "open",
+                    "value": [
+                        {
+                            "type": "Literal",
+                            "_bline": 0,
+                            "_eline": 0,
+                            "_start": 35,
+                            "_end": 38,
+                            "raw": "123",
+                            "value": 123
+                        }
+                    ],
+                    "_bline": 0,
+                    "_start": 29,
+                    "_eline": 0,
+                    "_end": 39
+                },
+                {
+                    "key": "close",
+                    "value": [
+                        {
+                            "type": "Literal",
+                            "_bline": 0,
+                            "_eline": 0,
+                            "_start": 48,
+                            "_end": 51,
+                            "raw": "\"abc\"",
+                            "value": "abc"
+                        }
+                    ],
+                    "_bline": 0,
+                    "_start": 40,
+                    "_eline": 0,
+                    "_end": 52
+                }
+            ],
+            "children": [
+                {
+                    "type": "node",
+                    "label": "view",
+                    "attribute": [
+                        {
+                            "key": "open",
+                            "value": [
+                                {
+                                    "type": "Literal",
+                                    "_bline": 1,
+                                    "_eline": 1,
+                                    "_start": 16,
+                                    "_end": 18,
+                                    "raw": "\"2b\"",
+                                    "value": "2b"
+                                }
+                            ],
+                            "_bline": 1,
+                            "_start": 10,
+                            "_eline": 1,
+                            "_end": 19
+                        }
+                    ],
+                    "children": [
+                        {
+                            "type": "ObjectExpression",
+                            "properties": [
+                                {
+                                    "type": "Identifier",
+                                    "name": "a",
+                                    "_bline": 1,
+                                    "_eline": 1,
+                                    "_start": 23,
+                                    "_end": 24
+                                },
+                                {
+                                    "type": "Identifier",
+                                    "name": "b",
+                                    "_bline": 1,
+                                    "_eline": 1,
+                                    "_start": 25,
+                                    "_end": 26
+                                },
+                                {
+                                    "type": "Property",
+                                    "method": false,
+                                    "shorthand": false,
+                                    "computed": false,
+                                    "kind": "init",
+                                    "_bline": 1,
+                                    "_start": 27,
+                                    "key": {
+                                        "type": "Identifier",
+                                        "name": "c"
+                                    },
+                                    "value": {
+                                        "type": "Literal",
+                                        "_bline": 1,
+                                        "_eline": 1,
+                                        "_start": 29,
+                                        "_end": 30,
+                                        "raw": "5",
+                                        "value": 5
+                                    },
+                                    "_eline": 1,
+                                    "_end": 30
+                                },
+                                {
+                                    "type": "SpreadElement",
+                                    "_bline": 1,
+                                    "_start": 31,
+                                    "_eline": 1,
+                                    "_end": 35,
+                                    "argument": {
+                                        "type": "Identifier",
+                                        "name": "e",
+                                        "_bline": 1,
+                                        "_eline": 1,
+                                        "_start": 34,
+                                        "_end": 35
+                                    }
+                                }
+                            ],
+                            "_bline": 1,
+                            "_start": 23,
+                            "_eline": 1,
+                            "_end": 35
+                        }
+                    ],
+                    "childrenCreated": false,
+                    "_bline": 1,
+                    "_start": 4,
+                    "_eline": 1,
+                    "_end": 45
+                }
+            ],
+            "childrenCreated": false,
+            "_bline": 0,
+            "_start": 0,
+            "_eline": 2,
+            "_end": 9
+        }
+    ]
+}

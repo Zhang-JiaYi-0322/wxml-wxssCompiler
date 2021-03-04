@@ -1,0 +1,5 @@
+<button wx:if="item-{{bin}}" open="123" close= "abc">
+    <view open="2b"> {{ a1-b}} </view>
+</button> 
+
+

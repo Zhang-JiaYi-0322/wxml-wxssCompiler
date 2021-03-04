@@ -1,0 +1,3 @@
+<view wx:if="{{a>b}}"> "a bigber than b" </view>
+<view wx:elif="{{a<b}}"> "a smaller than b" </view>
+<view wx:else> "a equal to b" </view>

@@ -1,0 +1,2 @@
+<button src="header.wxml" test="{{ab}}"/>
+<view wx:for="{{[1,2,3}}" wx:for_index="a"> body </view>

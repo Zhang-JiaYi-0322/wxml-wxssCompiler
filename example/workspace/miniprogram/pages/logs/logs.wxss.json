@@ -1,0 +1,28 @@
+[
+    {
+        "element": [
+            {
+                "type": "class",
+                "insert": false,
+                "name": "log-list"
+            }
+        ],
+        "style": {
+            "display": "flex",
+            "flex-direction": "column",
+            "padding": "20px"
+        }
+    },
+    {
+        "element": [
+            {
+                "type": "class",
+                "insert": false,
+                "name": "log-item"
+            }
+        ],
+        "style": {
+            "margin": "5px"
+        }
+    }
+]
